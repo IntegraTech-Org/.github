@@ -4,7 +4,6 @@ title: "[Ticket #] - [Task Title]"
 labels: ["task"]
 projects: ["YOUR_ORG_OR_USER/YOUR_PROJECT_NUMBER"]
 assignees: []
-milestone: "Sprint 1"
 body:
   - type: input
     id: ticket-number
