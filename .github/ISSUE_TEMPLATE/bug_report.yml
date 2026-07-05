@@ -2,8 +2,8 @@ name: Bug Report
 description: Report a bug or unexpected behavior
 title: "[Bug]: "
 labels: ["bug"]
-projects: ["YOUR_ORG_OR_USER/YOUR_PROJECT_NUMBER"]
-assignees: ["jellablue","anthonyA1214","arkmers","Jhon Railei Dugayo","Vinmar12","khaito1771"]
+projects: ["tentative12345/3"]
+assignees: []
 body:
   - type: textarea
     id: description
