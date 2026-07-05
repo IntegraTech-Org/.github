@@ -2,8 +2,9 @@ name: "📌 Task"
 description: Create a new task with user story, flow, and acceptance criteria.
 title: "[Ticket #] - [Task Title]"
 labels: ["task"]
-projects: ["panckeyk/6"]
-assignees: ["jellablue","anthonyA1214","arkmers","Jhon Railei Dugayo","Vinmar12","khaito1771"]
+projects: ["YOUR_ORG_OR_USER/YOUR_PROJECT_NUMBER"]
+assignees: []
+milestone: "Sprint 1"
 body:
   - type: input
     id: ticket-number
@@ -93,4 +94,4 @@ body:
         - [ ] Criteria 2
         - [ ] Criteria 3
     validations:
-      required: true
+      required: true  
