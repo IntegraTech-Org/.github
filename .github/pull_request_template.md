@@ -10,15 +10,15 @@ Closes #
 ## Type of Change
 - [ ] Bug fix
 - [ ] New feature
+- [ ] Chore
 - [ ] Refactor
 - [ ] Documentation
-- [ ] Other (describe below)
 
 ## How Has This Been Tested?
 <!-- Describe how you verified this works -->
 
-## Checklist
-- [ ] My code follows the project's style guidelines
-- [ ] I have tested this change locally
-- [ ] I have linked the related issue above
-- [ ] I have updated documentation if needed
+## Image Change 
+<!-- Add Image on UI Change if necessarry -->
+
+## Files Changed 
+<!-- Add Files that have been changed -->
