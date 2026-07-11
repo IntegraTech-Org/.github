@@ -1,10 +1,10 @@
-# 🚀 **[Organization Name]**
+# 🚀 **Welcome to IntegraTech**
 
 > *Building innovative software, one commit at a time.*
 
-Welcome to the official GitHub organization of **[Organization Name]**.
+Welcome to the official GitHub organization of **Integra Tech Organization**.
 
-We are a team dedicated to designing, developing, and delivering modern software solutions. Our repositories contain the projects, tools, libraries, and resources that power our applications and products.
+We are a group of 4th year College Students that is currently taking Computer Science program at the University of Caloocan City. We are a team dedicated to designing, developing, and delivering modern software solutions. Our repositories contain the projects, tools, libraries, and resources that power our applications and products.
 
 ---
 
@@ -48,6 +48,6 @@ Depending on the project, we use technologies such as:
 
 <div align="center">
 
-**Made with ❤️ by the [Organization Name] Team**
+**Made with ❤️ by the Integra Tech Team**
 
 </div>
