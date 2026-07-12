@@ -36,15 +36,6 @@ body:
       required: true
 
   - type: input
-    id: module
-    attributes:
-      label: Module / Component
-      description: The specific feature, screen, or component affected
-      placeholder: "Live Selling → Livestream Playback (Video Component)"
-    validations:
-      required: true
-
-  - type: input
     id: summary
     attributes:
       label: Summary
@@ -109,30 +100,3 @@ body:
     validations:
       required: false
 
-  - type: textarea
-    id: affected-scope
-    attributes:
-      label: Affected Scope
-      description: Which part of the system is impacted (e.g. video only, audio only, both, specific device types)
-    validations:
-      required: false
-
-  - type: textarea
-    id: workaround
-    attributes:
-      label: Workaround (if any)
-      description: Temporary fix or steps to avoid the issue
-    validations:
-      required: false
-
-  - type: textarea
-    id: acceptance-criteria
-    attributes:
-      label: Acceptance Criteria (Definition of Fixed)
-      description: Checklist of conditions that must be met for this bug to be considered resolved
-      value: |
-        - [ ] Criteria 1
-        - [ ] Criteria 2
-        - [ ] Criteria 3
-    validations:
-      required: true
