@@ -12,16 +12,14 @@
 Closes #
 
 ## Type of Change
+<!-- put X inside the bracket -->
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Chore
 - [ ] Refactor
 - [ ] Documentation
 
-## How Has This Been Tested?
-<!-- Describe how you verified this works -->
-
 ## Image Change 
-<!-- Add Image on UI Change if necessarry -->
+<!-- Add Image on UI Change if necessarry Write N/A if none-->
 
 
